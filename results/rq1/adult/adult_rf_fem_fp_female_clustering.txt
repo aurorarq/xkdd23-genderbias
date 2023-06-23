@@ -1,0 +1,17 @@
+Number of clusters: 7
+Clusters (instance indexes):
+	cluster: 0, instances: [8, 11, 19, 23, 25, 26, 41, 44, 59, 66, 72, 85, 95, 97, 108]
+	cluster: 1, instances: [37, 40, 48, 54, 87, 101]
+	cluster: 2, instances: [10, 20, 32, 55, 61, 68, 76, 83, 88, 96, 100, 104, 107]
+	cluster: 3, instances: [0, 2, 4, 24, 27, 29, 36, 42, 46, 47, 50, 52, 56, 58, 62, 63, 64, 65, 73, 78, 79, 82, 90, 91, 99]
+	cluster: 4, instances: [1, 3, 6, 12, 14, 15, 17, 21, 31, 45, 51, 67, 70, 80, 84, 92, 93, 103, 106]
+	cluster: 5, instances: [9, 13, 33, 34, 35, 60, 81, 86, 89]
+	cluster: 6, instances: [5, 7, 16, 18, 22, 28, 30, 38, 39, 43, 49, 53, 57, 69, 71, 74, 75, 77, 94, 98, 102, 105]
+Prototype instances:
+	cluster: 0, instance: 26, values:  age=44 fnlwgt=264016 education-num=13 capital-gain=0 capital-loss=0 hours-per-week=40 workclass_Non-Private=1 workclass_Private=0 marital-status_Married=1 marital-status_Non-Married=0 occupation_Managerial-Specialist=1 occupation_Other=0 relationship_Husband=0 relationship_Non-Husband=1 race_Non-White=1 race_White=0 native-country_Non-US=0 native-country_US=1
+	cluster: 1, instance: 54, values:  age=42 fnlwgt=390781 education-num=13 capital-gain=0 capital-loss=0 hours-per-week=40 workclass_Non-Private=0 workclass_Private=1 marital-status_Married=1 marital-status_Non-Married=0 occupation_Managerial-Specialist=1 occupation_Other=0 relationship_Husband=0 relationship_Non-Husband=1 race_Non-White=1 race_White=0 native-country_Non-US=0 native-country_US=1
+	cluster: 2, instance: 55, values:  age=55 fnlwgt=52888 education-num=15 capital-gain=0 capital-loss=0 hours-per-week=10 workclass_Non-Private=1 workclass_Private=0 marital-status_Married=1 marital-status_Non-Married=0 occupation_Managerial-Specialist=1 occupation_Other=0 relationship_Husband=0 relationship_Non-Husband=1 race_Non-White=0 race_White=1 native-country_Non-US=0 native-country_US=1
+	cluster: 3, instance: 62, values:  age=42 fnlwgt=204033 education-num=13 capital-gain=0 capital-loss=0 hours-per-week=35 workclass_Non-Private=1 workclass_Private=0 marital-status_Married=1 marital-status_Non-Married=0 occupation_Managerial-Specialist=1 occupation_Other=0 relationship_Husband=0 relationship_Non-Husband=1 race_Non-White=0 race_White=1 native-country_Non-US=0 native-country_US=1
+	cluster: 4, instance: 67, values:  age=55 fnlwgt=110844 education-num=9 capital-gain=0 capital-loss=0 hours-per-week=40 workclass_Non-Private=1 workclass_Private=0 marital-status_Married=1 marital-status_Non-Married=0 occupation_Managerial-Specialist=1 occupation_Other=0 relationship_Husband=0 relationship_Non-Husband=1 race_Non-White=0 race_White=1 native-country_Non-US=0 native-country_US=1
+	cluster: 5, instance: 81, values:  age=28 fnlwgt=338409 education-num=13 capital-gain=0 capital-loss=0 hours-per-week=40 workclass_Non-Private=0 workclass_Private=1 marital-status_Married=1 marital-status_Non-Married=0 occupation_Managerial-Specialist=1 occupation_Other=0 relationship_Husband=0 relationship_Non-Husband=1 race_Non-White=1 race_White=0 native-country_Non-US=1 native-country_US=0
+	cluster: 6, instance: 98, values:  age=58 fnlwgt=169611 education-num=9 capital-gain=0 capital-loss=0 hours-per-week=40 workclass_Non-Private=0 workclass_Private=1 marital-status_Married=1 marital-status_Non-Married=0 occupation_Managerial-Specialist=1 occupation_Other=0 relationship_Husband=0 relationship_Non-Husband=1 race_Non-White=0 race_White=1 native-country_Non-US=0 native-country_US=1
