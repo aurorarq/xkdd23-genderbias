@@ -1,5 +1,5 @@
 dalex==1.6.0
 fairlearn==0.8.0
-numpy==1.22.1
+numpy==1.25.0
 pandas==2.0.2
-scikit_learn==1.0.2
+scikit_learn==1.2.2
