@@ -1,6 +1,6 @@
-## Exploring gender bias in misclassification with clustering and explainable methods
+## Exploring gender bias in misclassification with clustering and local explanations
 
-This repository contains the replication package of the paper "Exploring gender bias in misclassification with clustering and explainable methods", submitted to XKDD workshop @ ECML 2023.
+This repository contains the replication package of the paper "Exploring gender bias in misclassification with clustering and local explanations", accepted for presentation in the [XKDD workshop](http://xkdd2023.isti.cnr.it/) colocated with [ECML 2023](https://2023.ecmlpkdd.org/).
 
 ### Repository organisation
 
